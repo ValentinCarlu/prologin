@@ -1,6 +1,7 @@
 # Prologin
 
 Mes solutions aux exercices du concours **Prologin**, réalisés pour m'entraîner pour ce concours afin d'aller le plus loin possible dans la compétition.
+Certains fichiers montrent simplement mon raisonnement et ne représentent pas la solution finale.
 
 ## Langage
 Python
